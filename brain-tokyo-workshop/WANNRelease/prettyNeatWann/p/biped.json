@@ -1,0 +1,11 @@
+{
+    "task":"biped",
+    "maxGen": 2048,
+    "popSize": 480,
+    "alg_nReps": 4,
+    "prob_addConn": 0.25,
+    "prob_addNode": 0.25,
+    "prob_mutAct": 0.5,
+    "prob_initEnable": 0.25,
+    "select_tournSize": 16
+}
